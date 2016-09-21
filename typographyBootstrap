@@ -1,0 +1,69 @@
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 ">
+		<h1>H1 Heading</h1>
+		<small>Small Text</small>
+		<p>Paragraph P</p>
+			
+			<blockquote>
+				<p>p in Block quote sdfjsl;dfh hksjdfjlashfoi hskdfhkhsdfhlskadjf oihhlsdfjhslfsdfhsdfsdlfkjioh </p>
+				<footer>footer in blockquote</footer>
+			</blockquote>
+			
+		<p>text in p <mark>mark Text</mark> after mark</p>
+			
+			<p class="bg-muted">bg muted class</p>
+			<p class="bg-danger">bg danger class</p>
+			<p class="bg-success">bg-success class</p>
+			<p class="bg-info">bg info class</p>
+			
+			
+			<dl>
+			<dt>dtitle in dlist dl</dt>
+				<dd>ddata in dlist</dd>
+				<dd>ddata in dlist2</dd>
+			<dt>outdoor</dt>
+				<dd>Go back Inside</dd>
+		</dl>
+		
+		<p>you can use code in p tag like <code>likeThis;</code></p>
+		<p>you can also use paragraph of code using pre tag
+		
+			<pre>
+			this code is
+			just 
+			aweful !
+			
+			</pre>
+		</p>
+		
+		<p>this is kbd <kbd>ctrl+alt+del</kbd> in p</p>
+		
+		<p class="text-muted">text muted class</p>
+		<p class="text-danger">text danger class</p>
+		<p class="text-success">text-success class</p>
+		<p class="text-info">text info class</p>
+		
+		<p>del tag in p <del>deleted text</del></p>
+		<p>s tag in p <s>s tag</s></p>
+		
+		<p class="text-left"> left aligned text</p>
+		<p class="text-center"> centered aligned text</p>
+		<p class="text-right"> right aligned text</p>
+		<p class="text-justify"> justified aligned text</p>
+		
+		<p class="text-lowercase"> aLL LOWER CASE</p>
+		<p class="text-uppercase"> aLL upper CaSe</p>
+		
+		
+		<blockquote class="blockquote-reverse">
+				<p>block quote reverse class </p>
+				<footer>reverse in blockquote</footer>
+			</blockquote>
+		
+		
+		</div>
+
+	</div>
+</div>
