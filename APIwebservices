@@ -1,0 +1,96 @@
+Java APIs for developing Web Services and web service Client :
+
+JAVA-RPC
+JAX-M
+JAX-WS
+JAX-RS
+
+Two tpes of web services
+
+1.Synchronous ws  : JAX-WS,JAX-RPC,JAX-RS
+
+RPC & WS -soap
+Rs -Rest
+
+
+2.Asynchronous ws :JAX-M 
+
+Since All  these are APIs only specifications, does not have implementations.We need to provide implmentations for it.
+
+
+
+*****************
+JAX-RPC API
+*****************
+-Specification given by Oracle along with JDK 1.4
+-Using this api we can develop both SOAP web services and soap based web sevice clients
+
+------------------------------------------------------------------
+WSDL Generation tools and skeleton ,stub generation Tools
+------------------------------------------------------------------
+
+-JAX-RPC-SI(Implementation Classes )are also provided but not included in JDK
+-We need to download seperately to use these classes
+
+-AXIS1-Apache Foundation Software
+
+Weblogic Implementation-BEA
+
+WebSphere Implementation-IBM
+
+JBoss implementation -REDHAT
+
+
+
+
+
+
+
+
+
+*****************
+JAX-WS API
+*****************
+---------------------------------------------------------
+WSDL Generation tools and skeleton ,stub generation Tools
+---------------------------------------------------------
+
+SUN
+JAX-WS RI -implementation- available in JDK 1.6
+Metro-Implementation -Need to download seperately.
+
+
+Apache
+Axis2-Does not support Spring
+Apache CXF-Supports Spring
+
+
+WebLogic Implementation -BEA -We get along with webLogic Server
+WebSphere Implementation -Comes along with websphere server
+
+JBoss Implementation 
+Glass Fish Implementation -Internally has Metro Implementation
+
+
+
+
+*****************
+JAX-RS API
+*****************
+
+JDK 1.6
+Specification not implementation
+
+
+Jersey Implementation-Download seperate
+REST EASY Implementation -REDHAT
+REST LET Implementation
+Apache CXF Implementation -Apache Foundation-Supports Spring
+Apache WINK Implementation-Does not support Spring
+
+
+*****************
+JAX-M
+*****************
+-we dont use jax-m rather we use jms api of java
+JMS API
