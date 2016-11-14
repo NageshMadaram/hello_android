@@ -1,0 +1,50 @@
+.glyphicon {
+    font-size: 25px;
+}
+
+.h-divider{
+ margin-top:5px;
+ margin-bottom:5px;
+ height:1px;
+ width:100%;
+ border-top:2px solid gray;
+}
+.h-dividerHeader{
+ margin-bottom:5px;
+ height:1px;
+ width:100%;
+ border-top:25px solid #fc8516;
+}
+
+.navbar-default {
+    background-color: white !important;
+    border-color: white !important;
+}
+.fontCol{
+	color: #FFA500;
+}
+.fontColBackground{
+	background-color: #fc8516;
+}
+
+.imageStyle{
+	
+	height: 150px;
+    width: 150px;
+}
+
+2
+3
+.btn.round {
+	border-radius: 24px !important;
+}
+.btn-primary {
+    background: #fc8516 !important;
+    border-radius: 24px !important;
+    color: #ffffff;
+}
+
+/* td:nth-child(1)
+	{
+		background-color: orange;
+	} */
